@@ -18,9 +18,10 @@
 | Кейс                                                            | Стек              |
 | ----------------------------------------------------------------| :---------------: |
 | <a href="https://github.com/msmkv/time-rows_taxi">Прогнозирование количества заказов такси</a>| `Временные ряды` `Pandas` `Python` `SciKit-learn` `statsmodels` |
+| <a href="https://github.com/msmkv/house_pricing_spark">Прогнозирование стоимости жилья в Калифорнии</a>| `BigData` `pySpark` `Python` |
 | <a href="https://github.com/msmkv/dtp_carshare">Разработка модели вероятности ДТП с каршерингом от условий на дороге</a>| `PostgreSQL` `Pandas` `SQLAlchemy` `Pipelines` `SciKit-learn` `CatBoost` `LGBM` |
 | <a href="https://github.com/msmkv/nlp_comment_classify">Модель классификации комментариев</a>| `NLP` `Pandas` `BERT` `nltk` `tf-idf` |
-| <a href="https://">Прогнозирование температуры звезды</a>| `Нейронные сети` `Pandas` `Python` `PyTorch` |
+| <a href="https://github.com/msmkv/stars_pytorch">Прогнозирование температуры звезды</a>| `Нейронные сети` `Pandas` `Python` `PyTorch` |
 
 
 
