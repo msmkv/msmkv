@@ -13,13 +13,13 @@
 
 - :mailbox: Telegram: <a href="https://t.me/mzmkv/"> @mzmkv </a> Kaggle: <a href="https://www.kaggle.com/mikhailsimakov"> mikhailsimakov </a>
 
-### 💻 Реализованные проекты:
+### 💻 Основные типовые реализованные проекты:
 
 | Кейс                                                            | Стек              |
 | ----------------------------------------------------------------| :---------------: |
 | <a href="https://github.com/msmkv/time-rows_taxi">Прогнозирование количества заказов такси</a>| `Временные ряды` `Pandas` `Python` `SciKit-learn` `statsmodels` |
-| <a href="https://github.com/msmkv/dtp_carshare">Разработка модели вероятности ДТП с каршерингом от условий на дороге</a>| `PostgreSQL` `Pandas` `SQLAlchemy` `SciKit-learn` `CatBoost` `LGBM` |
-| <a href="https://">Модель классификации комментариев</a>| `NLP` `Pandas` `BERT` `nltk` `tf-idf` |
+| <a href="https://github.com/msmkv/dtp_carshare">Разработка модели вероятности ДТП с каршерингом от условий на дороге</a>| `PostgreSQL` `Pandas` `SQLAlchemy` `Pipelines` `SciKit-learn` `CatBoost` `LGBM` |
+| <a href="https://github.com/msmkv/nlp_comment_classify">Модель классификации комментариев</a>| `NLP` `Pandas` `BERT` `nltk` `tf-idf` |
 | <a href="https://">Прогнозирование температуры звезды</a>| `Нейронные сети` `Pandas` `Python` `PyTorch` |
 
 
