@@ -11,7 +11,7 @@
 
 - :zap: Более 10 реализованных типовых кейсов (учебных и нет).
 
-- :mailbox: Telegram: <a href="https://t.me/mzmkv/"> @mzmkv </a>
+- :mailbox: Telegram: <a href="https://t.me/mzmkv/"> @mzmkv </a> Kaggle: <a href="https://www.kaggle.com/mikhailsimakov"> mikhailsimakov </a>
 
 ### 💻 Реализованные проекты:
 
